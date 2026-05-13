@@ -1,6 +1,6 @@
 # 🤖 Autonomous School Agent
 
-A high-reliability, text-driven execution agent for automating Schoology, Outlook, and other school-related tasks. Built for students who want to automate the mundane and focus on the meaningful.
+A high-reliability, text-driven execution agent for automating Schoology, Outlook, and other school-related tasks. Built for students who want to automate the mundane and focus on the meaningful. Make sure that gemini cli is installed and set up with your google account. Get gemini cli to set up this repo and ensure everything works
 
 ## 🏗 Features
 - **Schoology Integration**: Dynamic course discovery, assignment crawling, and automated submission.
